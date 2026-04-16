@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/OfArya/";
@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/OfArya/https:/makerworld.com/en/@Arya";
           },
-        },{id: "nav-blog",
-          title: "blog",
+        },{id: "nav-notes",
+          title: "Notes",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/OfArya/blog/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
