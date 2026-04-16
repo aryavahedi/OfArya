@@ -30,5 +30,4 @@ latest_posts:
 
 Hi,
 I’m trying to bring to life the things I wish existed.
-
 This is where I document my creations, thoughts, and projects.
