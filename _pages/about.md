@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Me, 2018, Tehran - Iran</p>
+    <p>Me, a selfportrait</p>
+    <p>2018, Tehran -Iran</p>
     <p>Nikon FG-20, Nikon 50mm f1.8</p>
     <p>Fujifilm Fujicolor C200</p>
 
