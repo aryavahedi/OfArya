@@ -30,3 +30,8 @@ latest_posts:
 
 I’m trying to bring to life the things I wish existed.<br>
 This is where I document my creations, thoughts, and projects.
+
+Check my [X Platform](https://x.com/OfAryaVahedi) 
+Check my [Instagram](#)
+Check my [Youtube](#)
+Check my [Medium](#)
