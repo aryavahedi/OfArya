@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/OfArya/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-3d-designs",
+          title: "3D Designs",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/OfArya/https:/makerworld.com/en/@Arya";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/OfArya/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/OfArya/repositories/";
           },
         },{id: "post-a-post-with-plotly-js",
         
