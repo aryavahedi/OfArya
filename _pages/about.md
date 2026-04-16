@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: Watchmaker. Tinkerer. Future founder. Human.
 
 profile:
   align: right
@@ -28,6 +28,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi,
-I’m trying to bring to life the things I wish existed.
+I’m trying to bring to life the things I wish existed.<br>
 This is where I document my creations, thoughts, and projects.
