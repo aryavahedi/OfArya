@@ -11,14 +11,10 @@
             "id": "ffa1f4e12f878cf5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_project.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1_project"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1_project"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1_project"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_project"
+              "title": "Outline"
             }
           }
         ]
@@ -185,8 +178,9 @@
   },
   "active": "ffa1f4e12f878cf5",
   "lastOpenFiles": [
-    "4_project.md",
     "1_project.md",
+    "Archive",
+    "4_project.md",
     "9_project.md",
     "8_project.md",
     "7_project.md",
