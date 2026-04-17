@@ -4,6 +4,7 @@ title: project 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
+redirect:
 category:
 related_publications: true
 ---
