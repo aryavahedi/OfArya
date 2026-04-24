@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "post-the-first-essay",
         
-          title: "The first Essay",
+          title: "The First Essay",
         
         description: "a prelude",
         section: "Posts",
