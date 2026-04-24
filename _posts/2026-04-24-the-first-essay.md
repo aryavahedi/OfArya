@@ -3,6 +3,7 @@ layout: post
 title: The first Essay
 date: 2026-04-24 16:38:55
 description: a prelude
+published: true
 tags: formatting links
 categories: sample-posts
 ---
