@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The first Essay
-date: 2026-04-24 01:38:55
+title: The First Essay
+date: 2026-04-24
 description: a prelude
 published: true
 tags: []
