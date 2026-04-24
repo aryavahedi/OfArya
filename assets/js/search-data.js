@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/OfArya/projects/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-",
         
-          title: "a post with formatting and links",
+          title: "",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/OfArya/blog/2026/formatting-and-links/";
+            window.location.href = "/OfArya/blog/2026/2026-04-24-the-first-essay/";
           
         },
       },{
