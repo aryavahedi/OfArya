@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The first Essay
-date: 2015-03-15 16:38:55
+date: 2026-04-24 16:38:55
 description: a prelude
-tags: formatting links
-categories: sample-posts
+tags: []
+categories: []
 ---
 
 I started taking notes when I was 7 years old. My aunt bought me a so called “Memories notebook” in my native language, which is a diary. The design was so beautiful that I decided to write in it only when my entries were exciting and worth writing, and to have more diaries I had to make my life more exciting. That was the first time in my life that I understood that every time you bring (or even you just want to bring) a thought to life, it affects your life forever.
