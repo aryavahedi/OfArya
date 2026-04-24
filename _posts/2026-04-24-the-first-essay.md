@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title: The first Essay
+date: 2015-03-15 16:38:55
+description: a prelude
 tags: formatting links
 categories: sample-posts
 ---
