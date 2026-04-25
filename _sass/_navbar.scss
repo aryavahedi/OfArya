@@ -195,18 +195,18 @@
 }
 
 .navbar-brand.brand-with-dot .brand-dot {
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   background-color: #b3202a;
   display: inline-block;
-  flex: 0 0 40px;
+  flex: 0 0 35px;
 }
 
 @media (max-width: 576px) {
   .navbar-brand.brand-with-dot .brand-dot {
-    width: 28px;
-    height: 28px;
-    flex: 0 0 28px;
+    width: 24px;
+    height: 24px;
+    flex: 0 0 24px;
   }
 }
