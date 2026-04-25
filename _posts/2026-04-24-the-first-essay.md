@@ -1,9 +1,10 @@
 ---
 layout: post
 title: The First Essay
-date: 2026-04-24
-description: a prelude
+date: 2026-04-24 16:38:55
+description: A prelude
 published: true
+future: true
 tags: []
 categories: []
 ---
