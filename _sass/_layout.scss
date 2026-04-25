@@ -39,6 +39,19 @@ body.sticky-bottom-footer {
     width: 100%;
   }
 }
+@media (max-width: 576px) {
+
+  .profile {
+
+    img {
+
+      max-width: 160px;
+
+    }
+
+  }
+
+}
 
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
