@@ -34,7 +34,12 @@ ninja.data = [{
             window.location.href = "/OfArya/blog/2026/the-first-essay/";
           
         },
-      },{
+      },{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/OfArya/projects/1_project/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
