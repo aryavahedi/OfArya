@@ -200,13 +200,13 @@
   border-radius: 50%;
   background-color: #b3202a;
   display: inline-block;
-  flex: 0 0 18px;
+  flex: 0 0 40px;
 }
 
 @media (max-width: 576px) {
   .navbar-brand.brand-with-dot .brand-dot {
     width: 28px;
     height: 28px;
-    flex: 0 0 14px;
+    flex: 0 0 28px;
   }
 }
