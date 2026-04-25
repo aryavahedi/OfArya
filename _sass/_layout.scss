@@ -43,16 +43,31 @@ body.sticky-bottom-footer {
 
   .profile {
 
-    img {
+    display: flex;
 
-      max-width: 160px;
+    align-items: flex-start;
 
-    }
-    .more-info {
+    gap: 12px;
 
-      font-size: 0.5rem;
+  }
 
-    }
+  .profile img {
+
+    width: 110px;
+
+    max-width: 110px;
+
+    height: auto;
+
+    flex-shrink: 0;
+
+  }
+
+  .profile .more-info {
+
+    font-size: 0.6rem;
+
+    flex: 1;
 
   }
 
