@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "The First Essay",
         
-        description: "a prelude",
+        description: "A prelude",
         section: "Posts",
         handler: () => {
           
