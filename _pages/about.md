@@ -31,7 +31,6 @@ latest_posts:
 I’m trying to bring to life the things I wish existed.<br>
 This is where I document my creations, thoughts, and projects.
 
+(This website is a work in progress and is continuously being updated.)
+
 Check my [X](https://x.com/OfAryaVahedi) <br>
-Check my [Instagram](#) <br>
-Check my [Youtube](#) <br>
-Check my [Medium](#) <br>
