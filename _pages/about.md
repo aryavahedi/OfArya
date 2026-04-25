@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Watchmaker. Tinkerer. Future founder. Human.
+subtitle: Watchmaker. Tinkerer. Human.
 
 profile:
   align: right
