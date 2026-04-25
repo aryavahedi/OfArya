@@ -188,3 +188,25 @@
     color: var(--global-hover-color);
   }
 }
+.navbar-brand.brand-with-dot {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.navbar-brand.brand-with-dot .brand-dot {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: #b3202a;
+  display: inline-block;
+  flex: 0 0 18px;
+}
+
+@media (max-width: 576px) {
+  .navbar-brand.brand-with-dot .brand-dot {
+    width: 14px;
+    height: 14px;
+    flex: 0 0 14px;
+  }
+}
