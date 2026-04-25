@@ -7,21 +7,21 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/OfArya/";
+      window.location.href = "/";
     },
   },{id: "nav-essays",
           title: "Essays",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/OfArya/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/OfArya/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "post-the-first-essay",
         
@@ -31,14 +31,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/OfArya/blog/2026/the-first-essay/";
+            window.location.href = "/blog/2026/the-first-essay/";
           
         },
       },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/OfArya/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ofarya.com/OfArya/sitemap.xml
+Sitemap: https://ofarya.com/sitemap.xml
