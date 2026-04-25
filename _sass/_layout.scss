@@ -39,25 +39,19 @@ body.sticky-bottom-footer {
     width: 100%;
   }
   .more-info {
-
     font-size: 0.82rem;
-
   }
 }
 @media (max-width: 576px) {
-
   .profile {
-
     display: flex;
 
     align-items: flex-start;
 
     gap: 12px;
-
   }
 
   .profile img {
-
     width: 110px;
 
     max-width: 110px;
@@ -65,17 +59,13 @@ body.sticky-bottom-footer {
     height: auto;
 
     flex-shrink: 0;
-
   }
 
   .profile .more-info {
-
     font-size: 0.6rem;
 
     flex: 1;
-
   }
-
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
