@@ -59,10 +59,10 @@ For the silver inlay, I did something simple: I made some holes, inserted the si
 Here is how it looked at the end:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Projects/TobaccoPipe/7.jpg" title="Final Result" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Projects/TobaccoPipe/8.jpg" title="Final Result" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
