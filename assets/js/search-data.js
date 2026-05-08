@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "",
+          description: "My projects throughout the years. Unfortunately, I don’t have documentation for every single project I’ve done in my life (I wish I did), but here you can find the projects I documented, along with the exact year I did them.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -34,11 +34,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-first-essay/";
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "projects-tobacco-pipe-restoration",
+          title: 'Tobacco Pipe Restoration',
+          description: "Feb 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/tobacco_pipe/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
