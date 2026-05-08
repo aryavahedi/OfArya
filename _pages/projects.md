@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: My projects throughout the years. Unfortunately, I don’t have documentation for every single project I’ve done in my life (I wish I did), but here you can find the projects I documented, along with the exact year I did them.
 nav: true
 nav_order: 3
 display_categories:
@@ -18,7 +18,7 @@ horizontal: false
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  {% assign sorted_projects = categorized_projects | sort: "date" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "date" %}
 
   <!-- Generate cards for each project -->
 
